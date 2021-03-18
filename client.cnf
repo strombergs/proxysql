@@ -1,0 +1,6 @@
+[client]
+host=localhost
+socket=/run/proxysql/proxysql.sock
+port=6032
+user=admin
+password=admin
